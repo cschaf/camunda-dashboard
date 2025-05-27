@@ -17,7 +17,6 @@ build/
 .parcel-cache/ # If you ever use Parcel (unlikely with Vite)
 
 # Editor directories and files
-# Editor directories and files
 .idea/ # IntelliJ IDEA project files
 *.iml # IntelliJ IDEA module files
 .vscode/ # VSCode project files
