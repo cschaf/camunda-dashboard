@@ -1,0 +1,55 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Production builds
+dist/
+build/
+.vite/ # Vite's internal cache for development
+.parcel-cache/ # If you ever use Parcel (unlikely with Vite)
+
+# Editor directories and files
+.idea/ # IntelliJ IDEA project files
+.vscode/ # VSCode project files
+*.iml # IntelliJ IDEA module files
+*.ipr
+*.iws
+
+# Environment variables
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Local development and testing artifacts
+coverage/
+*.tgz
+.npm/
+.eslintcache
+.stylelintcache
+.DS_Store # macOS specific
+Thumbs.db # Windows specific
+
+# Generated files for Tailwind CSS (if using JIT/CLI features directly)
+# These are typically handled by the build process, but if you have
+# specific generated CSS files outside of `dist/` or `build/`, add them here.
+# For example, if you run `npx tailwindcss -o output.css` manually:
+# output.css
+
+# Other common ignored files
+.npmrc
+npm-shrinkwrap.json
+yarn.lock
+pnpm-lock.yaml
+
+# SvelteKit specific (if you were using SvelteKit with Vite)
+.svelte-kit/
