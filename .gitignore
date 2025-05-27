@@ -54,3 +54,8 @@ pnpm-lock.yaml
 
 # SvelteKit specific (if you were using SvelteKit with Vite)
 .svelte-kit/
+/.idea/intellij-javadocs-4.0.1.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
