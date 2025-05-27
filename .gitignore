@@ -59,3 +59,7 @@ pnpm-lock.yaml
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/vcs.xml
 !/.idea/camunda-dashboard.iml
+!/.idea/camunda-dashboard.iml
+!/.idea/
+!/.idea/
+/.idea/camunda-dashboard.iml
