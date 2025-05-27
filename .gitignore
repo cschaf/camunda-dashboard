@@ -20,7 +20,6 @@ build/
 .idea/ # IntelliJ IDEA project files
 *.iml # IntelliJ IDEA module files
 .vscode/ # VSCode project files
-*.iml # IntelliJ IDEA module files
 *.ipr
 *.iws
 
